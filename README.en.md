@@ -23,8 +23,9 @@ Highlights:
 - Integrated SiliconFlow LLM reward words with fallback to local Wordbank.
 - Added Qt Test / CTest / cppcheck / coverage checks for reproducible validation.
 
-### Energy News Agent Platform
+### Energy News Agent Platform 
 
+(Currently private)
 An AI-assisted information processing platform for energy, policy, and research news.
 
 Highlights:
