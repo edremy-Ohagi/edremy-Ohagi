@@ -1,47 +1,49 @@
-# Hi, I'm edremy
+# 你好，我是 edremy 👋
 
-C++/Qt developer exploring AI Agent, RAG, and AI-assisted software engineering.
+[English Version](./README.en.md)
 
-I'm an undergraduate at China University of Geosciences (Wuhan).  
-I build desktop applications, data/LLM workflows, and project-level AI coding workflows with tests and documentation.
+我是一名 C++/Qt 开发者，正在探索 AI Agent、RAG 和 AI 辅助软件工程。
 
-## Focus
+目前就读于中国地质大学（武汉）。  
+我主要构建桌面应用、数据/LLM 工作流，以及带有测试与文档的项目级 AI Coding 工作流。
 
-- C++ / Qt desktop applications: MVC, Qt model/view, QGraphicsView, Qt Test, CMake
-- AI Agent / LLM applications: multi-stage workflows, prompt engineering, fallback, JSON repair
-- AI-assisted engineering: Codex, Claude Code, AGENTS.md, Context Pack, automated validation
+## 关注方向 🔭
 
-## Featured Projects
+- C++ / Qt 桌面应用：MVC、Qt model/view、QGraphicsView、Qt Test、CMake
+- AI Agent / LLM 应用：多阶段工作流、提示词工程
+- AI 辅助工程实践：Codex、Claude Code、AGENTS.md、Context Pack、自动化验证
 
-### Qt TypeGame
+## 代表项目 ✨
 
-A C++17 / Qt5 desktop typing game with Apple and Space modes.
+### Qt TypeGame 🎮
 
-Highlights:
-- Built a 212-file Qt project with MVC architecture and shared common services.
-- Separated model logic from QWidget so GUI and CLI JSON tests reuse the same core logic.
-- Integrated SiliconFlow LLM reward words with fallback to local Wordbank.
-- Added Qt Test / CTest / cppcheck / coverage checks for reproducible validation.
+一个基于 C++17 / Qt5 的桌面打字游戏，包含 Apple 和 Space 两个游戏。
 
-### Energy News Agent Platform
+亮点：
+- 构建了一个包含 212 个文件的 Qt 项目，采用 MVC 架构和共享 common 层。
+- 将模型逻辑从 QWidget 中拆分出来，使 GUI 与 CLI JSON 测试可以复用同一套核心逻辑。
+- 集成 SiliconFlow LLM 奖励词生成，并支持 fallback 到本地 Wordbank。
+- 添加 Qt Test / CTest / cppcheck / coverage 检查，让验证流程更可复现。
 
-An AI-assisted information processing platform for energy, policy, and research news.
+### Energy News Agent Platform 📰
 
-Highlights:
-- Built a pipeline from crawling, deduplication, vectorization, LLM analysis, feedback, to weekly reports.
-- Designed P0-P4 staged AI workflow for filtering, classification, scoring, and ranking.
-- Used Feapder, FastAPI, PostgreSQL, Redis, pgvector, BGE-M3, Docker.
+一个面向能源领域的政策与研究资讯的 AI 辅助信息处理平台。
+
+亮点：
+- 构建了从爬取、去重、向量化、LLM 分析、反馈到周报生成的完整流水线。
+- 设计 P0-P4 分阶段 AI 工作流，用于过滤、分类、评分与排序。
+- 使用 Feapder、FastAPI、PostgreSQL、Redis、pgvector、BGE-M3、Docker。
 
 ### AI-assisted Engineering Practice
 
-Project-level workflow for using coding agents in real repositories.
+在多个项目中使用 Coding Agent 的工作流实践经验。
 
-Highlights:
-- Wrote AGENTS.md to define architecture rules, task routing, anti-patterns, and validation commands.
-- Built Context Pack documents for TypeGame: architecture, tasks, acceptance criteria, style guide, assets manifest.
-- Used automated checks such as CTest, CLI JSON tests, smoke scripts, and crawler sampling reports.
+亮点：
+- 为 Energy News Agent Platform 编写 AGENTS.md，用于定义架构规则、任务路由、反模式和验证命令。
+- 为 TypeGame 构建 Context Pack 文档：架构说明、任务拆分、验收标准、风格指南、资源清单。
+- 使用 CTest、CLI JSON 测试、smoke 脚本和爬虫抽样报告等自动化检查。
 
-## Tech Stack
+## 技术栈 🛠️
 
 C++17, Qt5/Qt6, Git
 <!--
