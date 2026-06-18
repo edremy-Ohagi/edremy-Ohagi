@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+edremy, aka. Idrisu / edr / Idr / ed / 鹅蛋人 / 恶毒人 / bin112211
+
 <!--
 **edremy-Ohagi/edremy-Ohagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
