@@ -1,11 +1,11 @@
-# 你好，我是 edremy 👋
+# Hello, edremy here👋
 
 [English Version](./README.en.md)
 
-我是一名 C++/Qt 开发者，正在探索 AI Agent、RAG 和 AI 辅助软件工程。
-
-目前就读于中国地质大学（武汉）。  
-我主要构建桌面应用、数据/LLM 工作流，以及带有测试与文档的项目级 AI Coding 工作流。
+一名 C++/Qt 开发者。正在探索 AI Agent 开发、全栈开发。目前寻找暑期实习/日常实习中。
+  
+我主要构建 Qt 桌面应用、数据/LLM Agent 工作流，
+且使用项目级 AI Coding 工作流辅助开发。
 
 ## 关注方向 🔭
 
@@ -22,7 +22,7 @@
 亮点：
 - 构建了一个包含 212 个文件的 Qt 项目，采用 MVC 架构和共享 common 层。
 - 将模型逻辑从 QWidget 中拆分出来，使 GUI 与 CLI JSON 测试可以复用同一套核心逻辑。
-- 集成 SiliconFlow LLM 奖励词生成，并支持 fallback 到本地 Wordbank。
+- 集成 SiliconFlow LLM 生成奖励词，并支持 fallback 到本地 Wordbank。
 - 添加 Qt Test / CTest / cppcheck / coverage 检查，让验证流程更可复现。
 
 ### Energy News Agent Platform 📰
@@ -34,7 +34,7 @@
 - 设计 P0-P4 分阶段 AI 工作流，用于过滤、分类、评分与排序。
 - 使用 Feapder、FastAPI、PostgreSQL、Redis、pgvector、BGE-M3、Docker。
 
-### AI-assisted Engineering Practice
+### AI-assisted Engineering Practice 🤖
 
 在多个项目中使用 Coding Agent 的工作流实践经验。
 
@@ -45,7 +45,7 @@
 
 ## 技术栈 🛠️
 
-C++17, Qt5/Qt6, Git
+C++17, Qt5 / Qt6, Git, Python, Feapder
 <!--
 ## Contact
 

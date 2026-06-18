@@ -8,7 +8,7 @@ I build desktop applications, data/LLM workflows, and project-level AI coding wo
 ## Focus
 
 - C++ / Qt desktop applications: MVC, Qt model/view, QGraphicsView, Qt Test, CMake
-- AI Agent / LLM applications: multi-stage workflows, prompt engineering,
+- AI Agent / LLM applications: multi-stage workflows, prompt engineering
 - AI-assisted engineering: Codex, Claude Code, AGENTS.md, Context Pack, automated validation
 
 ## Featured Projects
