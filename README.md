@@ -31,7 +31,6 @@ Highlights:
 - Built a pipeline from crawling, deduplication, vectorization, LLM analysis, feedback, to weekly reports.
 - Designed P0-P4 staged AI workflow for filtering, classification, scoring, and ranking.
 - Used Feapder, FastAPI, PostgreSQL, Redis, pgvector, BGE-M3, Docker.
-- Implemented URL hash, content fingerprint, SimHash, and Embedding-based deduplication.
 
 ### AI-assisted Engineering Practice
 
@@ -45,11 +44,13 @@ Highlights:
 ## Tech Stack
 
 C++17, Qt5/Qt6, Git
-
+<!--
 ## Contact
 
 - Email: edremy@qq.com
 - GitHub: https://github.com/edremy-Ohagi
+-->
+
 <!--
 **edremy-Ohagi/edremy-Ohagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
