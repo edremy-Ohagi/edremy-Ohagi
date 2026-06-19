@@ -26,6 +26,7 @@ Highlights:
 ### Energy News Agent Platform 
 
 (Currently private)
+
 An AI-assisted information processing platform for energy, policy, and research news.
 
 Highlights:
