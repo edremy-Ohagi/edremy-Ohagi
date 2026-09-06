@@ -1,23 +1,16 @@
 # Hello, edremy here👋
 
-[English Version](./README.en.md)
+目前寻找日常实习中。
 
-一名 C++/Qt 开发者。初步掌握 AI Agent 开发，正在探索全栈开发（前端 + Java 后端）。
+## 技术栈
 
-目前寻找暑期实习/日常实习中。
-  
-我主要构建 Qt 桌面应用、数据/LLM Agent 工作流，
-且使用项目级 AI Coding 工作流辅助开发。
-
-## 关注方向 🔭
-
-- C++ / Qt 桌面应用：MVC、Qt model/view、QGraphicsView、Qt Test、CMake
+- C++ / Qt 桌面应用：MVC、Qt model/view、QGraphicsView
 - AI Agent / LLM 应用：多阶段工作流、提示词工程
-- AI 辅助工程实践：Codex、Claude Code、AGENTS.md、Context Pack、自动化验证
+- AI 辅助工程实践：Codex、AGENTS.md、Context Pack、Skills、自动化验证
 
-## 代表项目 ✨
+## 代表项目 
 
-### Qt TypeGame 🎮
+### Qt TypeGame 
 
 一个基于 C++17 / Qt5 的桌面打字游戏，包含 Apple 和 Space 两个游戏。
 
@@ -27,7 +20,7 @@
 - 集成 SiliconFlow LLM 生成奖励词，并支持 fallback 到本地 Wordbank。
 - 添加 Qt Test / CTest / cppcheck / coverage 检查，让验证流程更可复现。
 
-### Energy News Agent Platform 📰
+### Energy News Agent Platform 
 
 （保密实习开发项目，暂不公开源代码）
 
@@ -36,9 +29,9 @@
 亮点：
 - 构建了从爬取、去重、向量化、LLM 分析、反馈到周报生成的完整流水线。
 - 设计 P0-P4 分阶段 AI 工作流，用于过滤、分类、评分与排序。
-- 使用 Feapder、FastAPI、PostgreSQL、Redis、pgvector、BGE-M3、Docker。
+- 使用了 Feapder、FastAPI、PostgreSQL、Redis、pgvector、BGE-M3、Docker。
 
-### AI-assisted Engineering Practice 🤖
+### AI-assisted Engineering Practice 
 
 在多个项目中使用 Coding Agent 的工作流实践经验。
 
