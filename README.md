@@ -1,7 +1,5 @@
 # Hello, edremy here👋
 
-目前寻找日常实习中。
-
 ## 技术栈
 
 - C++ / Qt 桌面应用：MVC、Qt model/view、QGraphicsView
