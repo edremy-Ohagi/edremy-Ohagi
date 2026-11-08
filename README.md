@@ -2,41 +2,32 @@
 
 ## 技术栈
 
-- C++ / Qt 桌面应用：MVC、Qt model/view、QGraphicsView
-- AI Agent / LLM 应用：多阶段工作流、提示词工程
-- AI 辅助工程实践：Codex、AGENTS.md、Context Pack、Skills、自动化验证
+- **AI 辅助开发：** 有多个 AI 辅助项目开发经验，多家 Coding Agent 使用经验，熟悉上下文工程，Skill 编写与使用等。
+- **C++/Qt 客户端：** 熟悉 C++17、Qt Widgets、model/view、Graphics View、信号槽、事件处理等。
+- **LLM 应用工程:** 开发过新闻聚合 Agent 分析平台，实现多阶段工作流，Few-shot Prompting 等。
 
 ## 代表项目 
 
-### Qt TypeGame 
-
-一个基于 C++17 / Qt5 的桌面打字游戏，包含 Apple 和 Space 两个游戏。
-
-亮点：
-- 构建了一个包含 212 个文件的 Qt 项目，采用 MVC 架构和共享 common 层。
-- 将模型逻辑从 QWidget 中拆分出来，使 GUI 与 CLI JSON 测试可以复用同一套核心逻辑。
-- 集成 SiliconFlow LLM 生成奖励词，并支持 fallback 到本地 Wordbank。
-- 添加 Qt Test / CTest / cppcheck / coverage 检查，让验证流程更可复现。
-
 ### Energy News Agent Platform 
 
-（保密实习开发项目，暂不公开源代码）
-
 一个面向能源领域的政策与研究资讯的 AI 辅助信息处理平台。
+实习交付项目。使用 Claude Code with Opus 4.6 / GLM-4.7 辅助完成大部分开发。
 
-亮点：
-- 构建了从爬取、去重、向量化、LLM 分析、反馈到周报生成的完整流水线。
-- 设计 P0-P4 分阶段 AI 工作流，用于过滤、分类、评分与排序。
-- 使用了 Feapder、FastAPI、PostgreSQL、Redis、pgvector、BGE-M3、Docker。
+### [Qt TypeGame](https://github.com/edremy-Ohagi/Qt-TypeGame) 
 
-### AI-assisted Engineering Practice 
+一个基于 C++ / Qt5 的桌面打字游戏，包含 Apple 和 Space 两个游戏。采用Qt model view 的类MVC架构完成。
+训练营结营项目。使用 Codex with GPT 5.5 完成大部分开发。
 
-在多个项目中使用 Coding Agent 的工作流实践经验。
+### [Qt-LabSchedulingSystem](https://github.com/edremy-Ohagi/Qt-LabSchedulingSystem)
 
-亮点：
-- 为 Energy News Agent Platform 编写 AGENTS.md，用于定义架构规则、任务路由、反模式和验证命令。
-- 为 TypeGame 构建 Context Pack 文档：架构说明、任务拆分、验收标准、风格指南、资源清单。
-- 使用 CTest、CLI JSON 测试、smoke 脚本和爬虫抽样报告等自动化检查。
+一个基于 C++ / Qt 的机房排课客户端。支持排课、统计、保存等功能。采用Qt model view 架构完成。
+课设项目。纯人工编写，0% AI。
+
+### [Qt-VectorPainter](https://github.com/edremy-Ohagi/Qt-VectorPainter)
+
+一个基于 C++ / Qt 的矢量绘图客户端。支持基本图形的绘画和保存，以及颜色、线粗的编辑。采用Qt Graphics View架构完成。
+课设项目。纯人工编写，0% AI。
+
 <!--
 ## 技术栈 🛠️
 
