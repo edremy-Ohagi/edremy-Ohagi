@@ -10,24 +10,24 @@
 
 ### Energy News Agent Platform 
 
-一个面向能源领域的政策与研究资讯的 AI 辅助信息处理平台。
-实习交付项目。使用 Claude Code with Opus 4.6 / GLM-4.7 辅助完成大部分开发。
-实现功能：爬虫开发；数据去重；Agent 工作流；评分提示词工程；类似新闻聚合分组；周报选稿、编辑与生成；Docker 部署。
+- 一个面向能源领域的政策与研究资讯的 AI 辅助信息处理平台。
+- 实习交付项目。使用 Claude Code with Opus 4.6 / GLM-4.7 辅助完成大部分开发。
+- 实现功能：爬虫开发；数据去重；Agent 工作流；评分提示词工程；类似新闻聚合分组；周报选稿、编辑与生成；Docker 部署。
 
 ### [Qt TypeGame](https://github.com/edremy-Ohagi/Qt-TypeGame) 
 
-一个基于 C++ / Qt5 的桌面打字游戏，包含 Apple 和 Space 两个游戏。采用Qt model view 的类MVC架构完成。
-训练营结营项目。使用 Codex with GPT-5.5 辅助完成大部分开发。
+- 一个基于 C++ / Qt5 的桌面打字游戏，包含 Apple 和 Space 两个游戏。采用Qt model view 的类MVC架构完成。
+- 训练营结营项目。使用 Codex with GPT-5.5 辅助完成大部分开发。
 
 ### [Qt-LabSchedulingSystem](https://github.com/edremy-Ohagi/Qt-LabSchedulingSystem)
 
-一个基于 C++ / Qt 的机房排课客户端。支持排课、统计、保存等功能。采用Qt model view 架构完成。
-课设项目。纯人工编写，0% AI-generated codes。
+- 一个基于 C++ / Qt 的机房排课客户端。支持排课、统计、保存等功能。采用Qt model view 架构完成。
+- 课设项目。纯人工编写，0% AI-generated codes。
 
 ### [Qt-VectorPainter](https://github.com/edremy-Ohagi/Qt-VectorPainter)
 
-一个基于 C++ / Qt 的矢量绘图客户端。支持基本图形的绘画和保存，以及颜色、线粗的编辑。采用Qt Graphics View架构完成。
-课设项目。纯人工编写，0% AI-generated code。
+- 一个基于 C++ / Qt 的矢量绘图客户端。支持基本图形的绘画和保存，以及颜色、线粗的编辑。采用Qt Graphics View架构完成。
+- 课设项目。纯人工编写，0% AI-generated code。
 
 <!--
 ## 技术栈 🛠️
